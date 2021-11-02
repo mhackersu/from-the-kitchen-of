@@ -1,9 +1,8 @@
 ---
 title: "pâté du bœuf (Cheeseburger Puff Pastry)"
-date: {{ .Date }}
+date: 2021-11-02T18:17:00-00:00
 draft: false
-tags: [""]
-canonical_url: ""
+tags: ["pastry", "pate"]
 ---
 
 ## Ingredients
