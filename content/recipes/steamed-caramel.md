@@ -11,7 +11,7 @@ tags: ["dessert"]
 
 ## Steps
 
-Dulce de leche is a Mediterranean phrase that describes caramel made from sweetened canned milk.
+### Dulce de leche is a Mediterranean phrase that describes caramel made from sweetened canned milk.
 
 1. Remove the wrapping from one can of condensed milk
 2. Prep
