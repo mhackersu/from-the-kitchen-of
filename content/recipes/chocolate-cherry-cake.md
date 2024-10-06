@@ -15,27 +15,27 @@ tags: ["cake", "chocolate"]
 Dry Ingredients
 
 1. Using a large tablespoon:
-    2 cups flour
-    1 1/2 cups sugar
-    1/2 coco powder
+    - 2 cups flour
+    - 1 1/2 cups sugar
+    - 1/2 coco powder
 
 2. Using a teaspoon:
-    2 tsp soda
-    1 tsp powder
-    1/2 tsp salt
+    - 2 tsp soda
+    - 1 tsp powder
+    - 1/2 tsp salt
 
 - Combine in large mixing bowl.
 
 Wet Ingredients
 
 1. Using a teaspoon:
-    2 eggs
-    1 tsp vanilla or almond extract
+    - 2 eggs
+    - 1 tsp vanilla or almond extract
 
 2. Using a measuring cup:
-    1 cup milk
-    1 cup coffee
-    1/2 veg oil
+    - 1 cup milk
+    - 1 cup coffee
+    - 1/2 veg oil
 
 - Combine and whip in medium mixing bowl.
 
