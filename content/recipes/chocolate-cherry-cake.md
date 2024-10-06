@@ -7,10 +7,17 @@ tags: ["cake", "chocolate"]
 
 ## Ingredients
 
-* 1 block, extra-sharp cheddar cheese, diced into very small cubes
+* flour
+* sugar
+* butter
+* coco
+* salt
 
 
 ## Steps
+
+---
+Cake (Chocolate)
 
 Dry Ingredients
 
@@ -41,8 +48,29 @@ Wet Ingredients
 
 Combine Wet & Dry Mixtures
 
-- cake
-- icing
-- topping
-    1 (21 ounce) can cherry pie filling
-- whip topping
+---
+Icing (Chocolate)
+
+- 1 cup (16 Tbsp; 226g) unsalted butter, softened to room temperature
+- 3 and 1/2 cups (420g) confectioners’ sugar
+- 1/2 cup (41g) unsweetened natural or dutch-process cocoa powder
+- 3 Tablespoons (45ml) heavy cream or milk, at room temperature
+- 1/8 teaspoon salt
+- 2 teaspoons pure vanilla extract
+
+- Whip butter to a creamy texture; About 2 minutes.
+- Add confectioners’ sugar, cocoa powder, heavy cream, salt, and vanilla extract.
+- Mix on low speed for 30 seconds, then increase to high speed and beat for 1 full minute.
+- Add 1/4 cup more confectioners’ sugar or cocoa powder if frosting is too thin or another Tablespoon of cream if frosting is too thick.
+- Taste. Beat in another pinch of salt if desired.
+
+---
+Fruit Topping
+- 1 (21 ounce) can cherry pie filling
+
+---
+Whipped Cream Topping
+
+- 1 cup (240ml) cold heavy cream or heavy whipping cream
+- 2 Tablespoons confectioners’ sugar or granulated sugar*
+- 1/2 teaspoon pure vanilla extract
