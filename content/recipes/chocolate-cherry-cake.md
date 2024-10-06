@@ -17,7 +17,7 @@ tags: ["cake", "chocolate"]
 ## Steps
 
 ---
-Cake (Chocolate)
+### Cake (Chocolate)
 
 Dry Ingredients
 
@@ -49,7 +49,7 @@ Wet Ingredients
 Combine Wet & Dry Mixtures
 
 ---
-Icing (Chocolate)
+### Icing (Chocolate)
 
 - 1 cup (16 Tbsp; 226g) unsalted butter, softened to room temperature
 - 3 and 1/2 cups (420g) confectioners’ sugar
@@ -65,11 +65,11 @@ Icing (Chocolate)
 - Taste. Beat in another pinch of salt if desired.
 
 ---
-Fruit Topping
+### Fruit Topping
 - 1 (21 ounce) can cherry pie filling
 
 ---
-Whipped Cream Topping
+### Whipped Cream Topping
 
 - 1 cup (240ml) cold heavy cream or heavy whipping cream
 - 2 Tablespoons confectioners’ sugar or granulated sugar*
