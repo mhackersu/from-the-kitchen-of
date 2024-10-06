@@ -12,7 +12,7 @@ tags: ["cake", "chocolate"]
 
 ## Steps
 
-1. Dry Ingredients
+Dry Ingredients
 
 1. Using a large tablespoon:
     2 cups flour
@@ -30,20 +30,17 @@ Wet Ingredients
 
 1. Using a teaspoon:
     2 eggs
-    1/2 cup butter (softened)
     1 tsp vanilla or almond extract
+
+2. Using a measuring cup:
+    1 cup milk
+    1 cup coffee
+    1/2 veg oil
 
 - Combine and whip in medium mixing bowl.
 
 Combine Wet & Dry Mixtures
 
-1. Using a measuring cup:
-    1 cup milk
-    1 cup coffee
-    1/2 veg oil
-
-    
-    
 - cake
 - icing
 - topping
