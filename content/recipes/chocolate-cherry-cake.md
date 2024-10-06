@@ -44,9 +44,13 @@ tags: ["cake", "chocolate"]
     - 1 cup coffee
     - 1/2 veg oil
 
-- Combine and whip in medium mixing bowl.
+#### Bake
 
-#### Combine Wet & Dry Mixtures
+1. Combine dry and wet mixtures.
+2. Mix vigrously until mixture is smooth.
+3. Pour into well greased and flour coated metal or glass pan.
+4. Bake for 45 minutes.
+5. Let cool after removing and before adding icing.
 
 ---
 ### Icing (Chocolate)
