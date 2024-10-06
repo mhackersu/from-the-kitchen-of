@@ -19,7 +19,7 @@ tags: ["cake", "chocolate"]
 ---
 ### Cake (Chocolate)
 
-Dry Ingredients
+#### Dry Ingredients
 
 1. Using a large tablespoon:
     - 2 cups flour
@@ -33,7 +33,7 @@ Dry Ingredients
 
 - Combine in large mixing bowl.
 
-Wet Ingredients
+#### Wet Ingredients
 
 1. Using a teaspoon:
     - 2 eggs
@@ -46,7 +46,7 @@ Wet Ingredients
 
 - Combine and whip in medium mixing bowl.
 
-Combine Wet & Dry Mixtures
+#### Combine Wet & Dry Mixtures
 
 ---
 ### Icing (Chocolate)
@@ -58,11 +58,13 @@ Combine Wet & Dry Mixtures
 - 1/8 teaspoon salt
 - 2 teaspoons pure vanilla extract
 
-- Whip butter to a creamy texture; About 2 minutes.
-- Add confectioners’ sugar, cocoa powder, heavy cream, salt, and vanilla extract.
-- Mix on low speed for 30 seconds, then increase to high speed and beat for 1 full minute.
-- Add 1/4 cup more confectioners’ sugar or cocoa powder if frosting is too thin or another Tablespoon of cream if frosting is too thick.
-- Taste. Beat in another pinch of salt if desired.
+#### Steps
+
+1. Whip butter to a creamy texture; About 2 minutes.
+2. Add confectioners’ sugar, cocoa powder, heavy cream, salt, and vanilla extract.
+3. Mix on low speed for 30 seconds, then increase to high speed and beat for 1 full minute.
+4. Add 1/4 cup more confectioners’ sugar or cocoa powder if frosting is too thin or another Tablespoon of cream if frosting is too thick.
+5. Taste. Beat in another pinch of salt if desired.
 
 ---
 ### Fruit Topping
