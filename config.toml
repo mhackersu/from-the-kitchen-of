@@ -1,4 +1,4 @@
-baseURL = "https://from-the-kitchen-of.netlify.app/recipes/"
+baseURL = "#"
 languageCode = "en-us"
 title = "From The Kitchen Of"
 theme = "PaperMod"
