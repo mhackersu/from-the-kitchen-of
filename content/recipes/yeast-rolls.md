@@ -7,17 +7,17 @@ tags: ["bread"]
 
 ## Ingredients
 
-* Agua
-* Flour
-* Salt
-* Yeast
-* Granulated sugar
-* Eggs
-* Milk
+- Agua
+- Flour
+- Salt
+- Yeast
+- Granulated sugar
+- Eggs
+- Milk
 
 ## Materials
 
-* 5 quart borosilicate bowl & lid
+- 5 quart borosilicate bowl & lid
 
 ## Steps
 
